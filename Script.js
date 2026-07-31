@@ -18,7 +18,7 @@ function calculateAge() {
         //then showing a alert pop message
         alert("Please Enter Your Date Of Birth");
 
-       //Stopping the function here...
+       //Stopping the function here.....
        return;
 
     }
